@@ -7,9 +7,10 @@ apt install git -y
 
 pip install Amino.py
 
-git clone https://github.com/kira-xc/AminoInvite
+git clone git clone
+https://github.com/mahdi-max/saifSEA
 
 ls
-cd AminoInvite
+cd saifSEA
 
-python deviceid.py
+python SEA.py
