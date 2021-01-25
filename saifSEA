@@ -1,0 +1,15 @@
+apt update && apt upgrade -y
+Y
+Y
+apt install python -y
+
+apt install git -y
+
+pip install Amino.py
+
+git clone https://github.com/kira-xc/AminoInvite
+
+ls
+cd AminoInvite
+
+python deviceid.py
